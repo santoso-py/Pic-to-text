@@ -10,7 +10,10 @@ Pic to text adalah aplikasi sederhana berbasis **PyQt6** yang memungkinkan pengg
 - Menampilkan hasil OCR dalam tampilan teks  
 - Menyimpan hasil ke format .TXT  
 - Tombol reset untuk mengulang proses tanpa menutup aplikasi  
-- Preprocessing gambar untuk meningkatkan akurasi OCR  
+- Preprocessing gambar untuk meningkatkan akurasi OCR
+
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/2b46dec8-3728-4154-bac5-d85e288b3baa" />
+
 
 ### Instalasi
 
@@ -57,6 +60,10 @@ Features
 	•	Reset button to restart without closing the app
 	•	Image preprocessing for better OCR accuracy
 
+
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/6709701a-4f3a-440e-9503-1d08d4dded22" />
+
+ 
 ### Installation
 
 1. Install Tesseract OCR
